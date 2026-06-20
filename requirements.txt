@@ -1,0 +1,8 @@
+streamlit
+groq
+requests
+folium
+streamlit-folium
+reportlab
+pandas
+geopy
